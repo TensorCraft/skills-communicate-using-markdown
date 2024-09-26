@@ -4,3 +4,5 @@
 #### This is h4 headline
 ##### This is h5 headline
 ###### This is h6 headline
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
